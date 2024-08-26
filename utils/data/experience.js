@@ -1,20 +1,29 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'General Manager',
+    company: "Toasty Breakfast House",
+    duration: "(May 2023 - July 2024)",
   },
+
   {
-    id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    id: 1,
+    title: 'General Manager',
+    company: "Clearwater Oyster Bar & Grill",
+    duration: "(July 2023 - Oct. 2023)",
   },
+
   {
-    id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
-  }
+    id: 1,
+    title: 'Python Teaching Assistant',
+    company: "Coastal Carolina University",
+    duration: "(Jan 2023 - May 2023)",
+  },
+
+  {
+    id: 1,
+    title: 'Office Clerk',
+    company: "Lowes Foods",
+    duration: "(Sept. 2020 - Jan. 2024)",
+  },
 ]
