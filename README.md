@@ -1,63 +1,56 @@
 # Fazli Berisha's Developer Portfolio
 
 ## Overview
-
-This portfolio showcases my skills, projects, and experiences as a software developer. It's built using Next.js and designed to be easily customizable and user-friendly.
+Welcome to my professional portfolio! This website showcases my skills, projects, and experiences as a software developer. It's built using Next.js and designed to provide an interactive and informative experience for visitors.
 
 ## Features
+- Responsive design for optimal viewing on all devices
+- Sections highlighting my skills, projects, education, and work experience
+- Interactive contact form powered by EmailJS
+- Dynamic content management for easy updates
 
-- Responsive design
-- Sections for About Me, Skills, Projects, Education, and Contact
-- Integration with EmailJS for contact form functionality
+## Technologies Used
+- Next.js
+- React
+- TailwindCSS
+- EmailJS
+- Additional libraries: lottie-react, react-fast-marquee, react-icons, react-toastify, sass
 
 ## Setup and Installation
 
 1. Clone the repository:
+   ```
+   git clone https://github.com/FazliBerisha/portfolio.git
+   cd portfolio
+   ```
 
-   ```
-   git clone https://github.com/your-username/your-portfolio-repo.git
-   cd your-portfolio-repo
-   ```
 2. Install dependencies:
-
    ```
    npm install
    ```
-3. Create a `.env.local` file in the root directory and add your EmailJS credentials:
 
+3. Create a `.env.local` file and add your EmailJS credentials:
    ```
    NEXT_PUBLIC_EMAILJS_SERVICE_ID=your_service_id
    NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
    NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
    ```
-4. Start the development server:
 
+4. Start the development server:
    ```
    npm run dev
    ```
-5. Open [http://localhost:3000](http://localhost:3000) to view your portfolio.
+
+5. Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 
 ## Customization
-
-Update the content in the `utils/data` folder to personalize your portfolio information.
+To personalize the portfolio content, update the data files located in the `utils/data` directory.
 
 ## Deployment
-
-This portfolio can be easily deployed on platforms like Vercel or Netlify.
-
-## Technologies and Packages Used
-
-- Next.js
-- React
-- TailwindCSS
-- EmailJS
-- @emailjs/browser
-- lottie-react
-- react-fast-marquee
-- react-icons
-- react-toastify
-- sass
+This portfolio is designed for easy deployment on platforms like Vercel or Netlify.
 
 ## Contact
+For any inquiries or opportunities, please reach out to me at [fazliberisha03@gmail.com].
 
-For any inquiries, please reach out to me at [fazliberisha03@gmail.com].
+## Acknowledgements
+This project is a modified version of the [Developer Portfolio template](https://github.com/said7388/developer-portfolio) by [Abu Said](https://github.com/said7388). I've made significant customizations to tailor it to my personal brand and add additional features.
