@@ -5,4 +5,10 @@ export const educations = [
     duration: "2021 - Present",
     institution: "Coastal Carolina University",
   },
+  {
+    id: 2,
+    title: "Full-Stack Web Development Career Path",
+    duration: "2021 - Present",  
+    institution: "CodeCademy",
+    },
 ]
