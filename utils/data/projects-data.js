@@ -1,7 +1,7 @@
 export const projectsData = [
     {
         id: 1,
-        name: "AniBot: AI-Powered Anime Recommendation Chatbot",
+        name: "AniBot: AI-Powered Anime Recommendation Chatbot (ongoing)",
         description: "Developing an AI-powered chatbot to recommend anime movies and TV shows based on user preferences such as genre, timeline, mood, and other factors. The project aims to help anime enthusiasts discover new content tailored to their tastes. Features include personalized recommendations, genre-based filtering, mood-based suggestions, timeline-specific recommendations, user preference learning, and a conversational interface.",
         tools: ["Python", "FastAPI", "MongoDB", "TensorFlow", "spaCy", "React.js"],
         role: "Full Stack Developer",
@@ -12,7 +12,7 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: "Community Tool Lending Platform",
+        name: "Community Tool Lending Platform (ongoing)",
         description: "Creating a community-driven platform for lending and borrowing tools. The project consists of a React frontend application and a FastAPI backend application.",
         tools: ["React.js", "FastAPI"],
         role: "Full Stack Developer",
