@@ -26,4 +26,11 @@ export const experiences = [
     company: "Lowes Foods",
     duration: "(Sept. 2020 - Jan. 2024)",
   },
+
+  {
+    id: 1,
+    title: 'Software Engineer Intern',
+    company: 'SafeSpace',
+    duration: "(Oct. 2024 - Present)",
+  },
 ]
