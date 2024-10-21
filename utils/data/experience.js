@@ -1,6 +1,13 @@
 export const experiences = [
   {
     id: 1,
+    title: 'Software Engineer Intern',
+    company: 'SafeSpace',
+    duration: "(Oct. 2024 - Present)",
+  },
+  
+  {
+    id: 1,
     title: 'General Manager',
     company: "Toasty Breakfast House",
     duration: "(May 2023 - July 2024)",
@@ -25,12 +32,5 @@ export const experiences = [
     title: 'Office Clerk',
     company: "Lowes Foods",
     duration: "(Sept. 2020 - Jan. 2024)",
-  },
-
-  {
-    id: 1,
-    title: 'Software Engineer Intern',
-    company: 'SafeSpace',
-    duration: "(Oct. 2024 - Present)",
   },
 ]
