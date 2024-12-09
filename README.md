@@ -51,6 +51,3 @@ This portfolio is designed for easy deployment on platforms like Vercel or Netli
 
 ## Contact
 For any inquiries or opportunities, please reach out to me at [fazliberisha03@gmail.com].
-
-## Acknowledgements
-This project is a modified version of the [Developer Portfolio template](https://github.com/said7388/developer-portfolio) by [Abu Said](https://github.com/said7388). I've made significant customizations to tailor it to my personal brand and add additional features.
