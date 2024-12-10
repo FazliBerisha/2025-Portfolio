@@ -12,14 +12,14 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: "Community Tool Lending Platform (ongoing)",
+        name: "Tool Lending Library",
         description: "Creating a community-driven platform for lending and borrowing tools. The project consists of a React frontend application and a FastAPI backend application.",
         tools: ["Python", "Javascript", "React.js", "FastAPI"],
         role: "Full Stack Developer",
         code: "",
         demo: "",
         image: null,
-        date: "Ongoing"
+        date: "Dec. 2024"
     },
     {
         id: 3,
