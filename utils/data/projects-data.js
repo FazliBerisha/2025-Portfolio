@@ -13,7 +13,7 @@ export const projectsData = [
     {
         id: 2,
         name: "Tool Lending Library",
-        description: "Creating a community-driven platform for lending and borrowing tools. The project consists of a React frontend application and a FastAPI backend application.",
+        description: "Developed a community-driven platform that democratizes access to tools, addressing key societal challenges. By creating a shared resource system, the library reduces individual economic barriers to tool ownership, enabling community members with limited financial resources to access necessary equipment for home improvement, repairs, and personal projects.",
         tools: ["Python", "Javascript", "React.js", "FastAPI"],
         role: "Full Stack Developer",
         code: "",

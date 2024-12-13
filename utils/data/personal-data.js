@@ -1,6 +1,6 @@
 export const personalData = {
   name: "FAZLI BERISHA",
-  profile: '/images/profile.png',
+  profile: '/images/profile copy.JPEG',
   designation: "Software Developer",
   description: "I'm an Information Systems student at Coastal Carolina University, specializing in full-stack development. 🎓 With a strong foundation in JavaScript and Python, I'm passionate about crafting efficient web applications and optimizing software performance. 💻 My experience as a former Teaching Assistant has honed my ability to communicate complex concepts, while competitive coding has sharpened my problem-solving skills. 🏆 I thrive on challenges, from integrating APIs to building intuitive user interfaces. Always eager to expand my skill set, I'm committed to creating innovative solutions that make a real impact in the tech world. Open to collaboration and continuously learning, I'm ready to tackle the evolving challenges of the software development landscape. 🚀",
   email: 'fazliberisha03@gmail.com',
