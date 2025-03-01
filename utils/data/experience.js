@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Software Engineer Intern',
     company: 'SafeSpace',
-    duration: "(Oct. 2024 - Present)",
+    duration: "(Oct. 2024 - Jan. 2025)",
   },
   
   {
