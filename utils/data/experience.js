@@ -1,13 +1,20 @@
 export const experiences = [
   {
     id: 1,
+    title: 'Founder & Full-Stack Developer',
+    company: 'svarra.ai',
+    duration: "(Oct. 2025 - Present)",
+  },
+
+  {
+    id: 2,
     title: 'Software Engineer Intern',
     company: 'SafeSpace',
     duration: "(Oct. 2024 - Jan. 2025)",
   },
-  
+
   {
-    id: 1,
+    id: 3,
     title: 'General Manager',
     company: "Toasty Breakfast House",
     duration: "(May 2023 - July 2024)",

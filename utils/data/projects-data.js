@@ -1,14 +1,14 @@
 export const projectsData = [
     {
         id: 1,
-        name: "AniBot: AI-Powered Anime Chatbot (ongoing)",
-        description: "Developing an AI-powered chatbot to recommend anime movies and TV shows based on user preferences such as genre, timeline, mood, and other factors. The project aims to help anime enthusiasts discover new content tailored to their tastes. Features include personalized recommendations, genre-based filtering, mood-based suggestions, timeline-specific recommendations, user preference learning, and a conversational interface.",
-        tools: ["Python", "Javascript", "FastAPI", "MongoDB", "TensorFlow", "spaCy", "React.js"],
-        role: "Full Stack Developer",
+        name: "svarra.ai - AI Chatbot SaaS Platform",
+        description: "Developing an AI chatbot SaaS platform enabling businesses to create custom conversational agents using React, TypeScript, and Node.js/Express. Built secure backend APIs with MongoDB and JWT, integrating Claude AI for real-time intelligent conversations. Implemented scheduling, document analysis, and analytics via Google Calendar, Stripe, and SendGrid.",
+        tools: ["React", "Typescript", "Node JS", "MongoDB", "Express"],
+        role: "Founder & Full-Stack Developer",
         code: "",
         demo: "",
         image: null,
-        date: "Ongoing"
+        date: "Oct. 2025 – Present"
     },
     {
         id: 2,
