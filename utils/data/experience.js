@@ -21,21 +21,21 @@ export const experiences = [
   },
 
   {
-    id: 1,
+    id: 4,
     title: 'General Manager',
     company: "Clearwater Oyster Bar & Grill",
     duration: "(July 2023 - Oct. 2023)",
   },
 
   {
-    id: 1,
+    id: 5,
     title: 'Python Teaching Assistant',
     company: "Coastal Carolina University",
     duration: "(Jan 2023 - May 2023)",
   },
 
   {
-    id: 1,
+    id: 6,
     title: 'Office Clerk',
     company: "Lowes Foods",
     duration: "(Sept. 2020 - Jan. 2024)",
